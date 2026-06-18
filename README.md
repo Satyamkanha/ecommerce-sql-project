@@ -4,6 +4,14 @@
 
 Designed and implemented a relational E-Commerce Database using MySQL to manage customers, products, orders, inventory, reviews, and payments.
 
+## Project Highlights
+
+- Designed a normalized relational database schema
+- Implemented foreign key relationships across 8 tables
+- Created stored procedures and triggers for automation
+- Developed analytical SQL reports using joins, subqueries, and window functions
+- Generated customer and sales performance insights
+
 ## Features
 
 - Relational Database Design
@@ -38,7 +46,8 @@ Designed and implemented a relational E-Commerce Database using MySQL to manage 
 
 ## ER Diagram
 
-Add ER_Diagram.png here
+<img width="865" height="987" alt="ER_Diagram" src="https://github.com/user-attachments/assets/d06e56b5-0fe2-4447-929e-b8d4165dcdaa" />
+
 
 ## Author
 
